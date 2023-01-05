@@ -1,0 +1,12 @@
+#colLogin{
+  height: 40vh;
+  margin-top: 10vh;
+}
+label, h4{
+  font-weight: bold;
+}
+button{
+  margin-top: 2vh;
+  width: 100%;
+  font-weight: bold;
+}
